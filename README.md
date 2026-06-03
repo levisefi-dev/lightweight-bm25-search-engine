@@ -1,4 +1,4 @@
-# ightweight-bm25-search-engine# Lightweight BM25 Search Engine 
+# Lightweight-bm25-search-engine# Lightweight BM25 Search Engine 
 
 A lightweight Information Retrieval engine built from scratch in Python. This project implements an inverted index and the probabilistic **BM25 scoring algorithm** to rank text documents based on query relevance, avoiding high-level abstractions to focus on algorithmic fundamentals.
 
